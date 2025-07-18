@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Working with **React, Next.js, NestJS, Prisma, AWS**
+- 🔭 Working with **MERN Stack, Next.js, NestJS, Prisma, AWS**
 - 🌱 Learning **AI/ML integration & Cloud Architecture**
 - 💬 Ask me about **Backend Development, Cloud Infrastructure, DevOps**
 - 📫 Reach me at **[kunalasude@gmail.com](mailto:kunalasude@gmail.com)**
@@ -14,7 +14,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,prisma,mongodb,postgresql,aws,docker,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,mongodb,postgresql,mysql,redis,prisma,aws,docker,git,github,python,graphql,tailwind,bootstrap&perline=10" />
 </div>
 
 ## 📊 GitHub Stats
@@ -27,7 +27,7 @@
 ## 🔥 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=dark&hide_border=true&hide_current_streak=true" />
 </div>
 
 ## 📈 Contribution Highlights
