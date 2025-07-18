@@ -1,87 +1,129 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Kunal</h1></summary>
-  </ul>
-</div>
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Full Stack Developer | AI & Cloud Enthusiast</h2></summary>
-  </ul>
-</div>
-<!--Intro start-->
-<ul>
-<li>
-<p>🔭 I'm currently working on <strong>React, Next.js, Node.js, MongoDB, AWS</strong></p>
-</li>
-<li>
-<p>🌱 I'm currently learning <strong>AI/ML integration with web applications</strong></p>
-</li>
-<li>
-<p>☁️ I've keen interest in cloud computing and working with <strong>AWS, Google Cloud, Vercel, Render</strong></p>
-</li>
-<li>
-<p>💬 Ask me about <strong>Full Stack Development, Cloud Architecture, DevOps</strong></p>
-</li>
-<li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:kunalasude@gmail.com">kunalasude@gmail.com</a></strong></p>
-</li>
-</ul>
-<!--Intro end-->
-<!--- stats & Trophy (start) -->
+# Hi 👋, I'm Kunal
+
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <!-- GitHub Streak Stats -->
-  <!-- GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kunal's GitHub stats" />
-  </a>
-  <br /><br />
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Kunal's top languages" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
-<!--- trophy (start) -->
+
+## 🚀 About Me
+
+- 🔭 I'm currently working on **React, Next.js, Node.js, NestJS, Prisma, AWS, MongoDB**
+- 🌱 I'm currently learning **AI/ML integration with web applications & Advanced Cloud Architecture**
+- ☁️ I've keen interest in cloud computing and working with **AWS, Google Cloud, Vercel, Render**
+- 💬 Ask me about **Full Stack Development, Backend Architecture, Cloud Infrastructure, DevOps**
+- 📫 Feel free to reach me out **[kunalasude@gmail.com](mailto:kunalasude@gmail.com)**
+
+## 💻 Technologies & Tools
+
 <div align="center">
-  <br />
-  <h2>🏆 GitHub Achievements</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KunalAsude&theme=nord&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophy" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,prisma,mongodb,postgresql,firebase,tailwind,aws,docker,git,github,python,graphql,vercel,figma,nginx,redis&perline=11" />
 </div>
-<!--- trophy (end) -->
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,firebase,tailwind,aws,docker,git,github,python,graphql,vercel,figma,nginx,redis&perline=10">
-  </a>
-</p>
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/kunalasude/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a>
-<a href="https://kunalasude.dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="portfolio" height="50" width="50"></a>
-<a href="mailto:kunalasude@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="email" height="50" width="50"></a>
-</p>
-<!--profile visit count-->
+
+## 📊 GitHub Analytics
+
 <div align="center">
-<p><img src="https://komarev.com/ghpvc/?username=KunalAsude&style=for-the-badge&color=blue" alt=""></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=tokyonight&hide_border=true" />
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KunalAsude&theme=nord&row=2&column=4&margin-h=15&margin-w=5&no-bg=true" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalAsude&bg_color=1a1b27&color=be90f2&line=638fda&point=35bcbf&area=true&hide_border=true" />
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kunalasude/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kunalasude.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:kunalasude@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+## 🎯 Current Focus
+
+```javascript
+const kunal = {
+    pronouns: "He/Him",
+    code: ["JavaScript", "TypeScript", "Python", "SQL"],
+    askMeAbout: ["web dev", "backend architecture", "cloud infrastructure", "AI/ML", "DevOps"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind CSS", "Bootstrap", "Styled Components"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express", "NestJS"],
+            python: ["FastAPI", "Django"],
+            databases: ["MongoDB", "PostgreSQL", "Redis"],
+            orm: ["Prisma", "Mongoose", "TypeORM"]
+        },
+        cloud: {
+            aws: ["EC2", "S3", "Lambda", "RDS", "CloudFormation"],
+            gcp: ["Compute Engine", "Cloud Storage", "Cloud Functions"],
+            platforms: ["Vercel", "Render", "Railway"]
+        },
+        devOps: ["Docker", "Kubernetes", "CI/CD", "Nginx", "GitHub Actions"],
+        tools: ["Git", "Postman", "Figma", "VS Code", "Insomnia"]
+    },
+    currentFocus: "Building scalable microservices with NestJS and cloud-native architectures",
+    funFact: "I love optimizing database queries and making APIs blazingly fast! ⚡"
+};
+```
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   █████████████████████████   75.5%
+TypeScript   ███████████████████░░░░░░   70.2%
+NestJS       ████████████████░░░░░░░░░   65.8%
+Prisma       ██████████████░░░░░░░░░░░   55.3%
+React        ███████████░░░░░░░░░░░░░░   45.8%
+Python       ██████░░░░░░░░░░░░░░░░░░░   25.3%
+SQL          █████░░░░░░░░░░░░░░░░░░░░   22.7%
+CSS          ████░░░░░░░░░░░░░░░░░░░░░   18.7%
+```
+<!--END_SECTION:waka-->
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/KunalAsude/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KunalAsude&repo=project1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/KunalAsude/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KunalAsude&repo=project2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KunalAsude&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/KunalAsude?style=for-the-badge&color=blue" alt="Followers" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+### 💡 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
