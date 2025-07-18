@@ -14,7 +14,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,prisma,mongodb,postgresql,aws,docker,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,prisma,mongodb,postgresql,aws,docker,git&perline=6" />
 </div>
 
 ## 📊 GitHub Stats
@@ -23,6 +23,28 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </div>
+
+## 🔥 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=dark&hide_border=true" />
+</div>
+
+## 📈 Contribution Highlights
+
+<div align="center">
+  
+  ![Total Commits](https://img.shields.io/badge/Total%20Commits-368-brightgreen?style=for-the-badge&logo=github)
+  ![Total PRs](https://img.shields.io/badge/Total%20PRs-62-blue?style=for-the-badge&logo=github)
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge&logo=github)
+  
+</div>
+
+### 💼 Notable Contributions
+- 🚀 **Private Enterprise Repositories** - Contributing to production-grade applications
+- 🔧 **Open Source Projects** - Active contributor to community-driven solutions
+- 📦 **Internal Tools & Libraries** - Building reusable components and utilities
+- 🌟 **Code Reviews & Mentoring** - Helping teams maintain code quality
 
 ## 🤝 Connect
 
