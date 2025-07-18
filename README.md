@@ -6,15 +6,15 @@
 
 ## 🚀 About Me
 
-- 🔭 Working with **MERN Stack, Next.js, NestJS, Prisma, AWS**
-- 🌱 Learning **AI/ML integration & Cloud Architecture**
-- 💬 Ask me about **Backend Development, Cloud Infrastructure, DevOps**
+- 🔭 Working with **MERN Stack, Next.js, NestJS, Prisma, AWS, Docker, Kubernetes**
+- 🌱 Learning **AI/ML integration & Advanced DevOps with Jenkins**
+- 💬 Ask me about **Backend Development, Cloud Infrastructure, DevOps, Container Orchestration**
 - 📫 Reach me at **[kunalasude@gmail.com](mailto:kunalasude@gmail.com)**
 
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,mongodb,postgresql,mysql,redis,prisma,aws,docker,git,github,python,graphql,tailwind,bootstrap&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,react,nextjs,nodejs,nestjs,express,mongodb,postgresql,mysql,redis,prisma,aws,docker,kubernetes,jenkins,git,github,python,graphql,tailwind,bootstrap,bash&perline=12" />
 </div>
 
 ## 📊 GitHub Stats
@@ -45,6 +45,27 @@
 - 🔧 **Open Source Projects** - Active contributor to community-driven solutions
 - 📦 **Internal Tools & Libraries** - Building reusable components and utilities
 - 🌟 **Code Reviews & Mentoring** - Helping teams maintain code quality
+
+## 🏗️ Featured Projects
+
+<div align="center">
+  
+  ### 🏥 **MediNexus** - Healthcare Management Platform
+  ![Healthcare](https://img.shields.io/badge/Healthcare-Tech-success?style=for-the-badge&logo=medical-cross)
+  ![MERN](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge&logo=react)
+  ![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker)
+  
+  ### 🎓 **OpenElevate** - Educational Technology Solution
+  ![EdTech](https://img.shields.io/badge/EdTech-Platform-orange?style=for-the-badge&logo=graduation-cap)
+  ![Next.js](https://img.shields.io/badge/Next.js-Framework-black?style=for-the-badge&logo=next.js)
+  ![K8s](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+  
+  ### 🔧 **DevOps Pipeline Projects**
+  ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins)
+  ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+  ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
+  
+</div>
 
 ## 🤝 Connect
 
