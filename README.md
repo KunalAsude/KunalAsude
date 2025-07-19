@@ -66,7 +66,6 @@
   ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
   
 </div>
-
 ## 🤝 Connect
 
 <div align="center">
