@@ -24,20 +24,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=86400" />
 </div>
 
-## 🔥 GitHub Activity
+## 🔥 GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=KunalAsude&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
-## 📊 Total GitHub Contributions
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/KunalAsude?label=Followers&style=for-the-badge&logo=github&color=blue)
-  ![GitHub User's stars](https://img.shields.io/github/stars/KunalAsude?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow)
+  ![Followers](https://img.shields.io/badge/Followers-5-blue?style=for-the-badge&logo=github)
+  ![Total Stars](https://img.shields.io/badge/Total%20Stars-119-yellow?style=for-the-badge&logo=github)
   ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-25+-orange?style=for-the-badge&logo=github)
   ![Years Active](https://img.shields.io/badge/Years%20Active-3+-green?style=for-the-badge&logo=github)
+  ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-420+-brightgreen?style=for-the-badge&logo=github)
   
 </div>
 
