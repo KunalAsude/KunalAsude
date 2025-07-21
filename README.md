@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kunal
+# Hi , I'm Kunal
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+%26+Cloud+Specialist" alt="Typing SVG" />
@@ -31,10 +31,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark" alt="GitHub Profile Summary" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
 </div>
 
@@ -43,7 +39,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/KunalAsude?style=for-the-badge&logo=github&labelColor=black&color=blue)](https://github.com/KunalAsude?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/KunalAsude?style=for-the-badge&logo=github&labelColor=black&color=yellow)](https://github.com/KunalAsude?tab=repositories)
   [![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&labelColor=black&color=orange&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKunalAsude)](https://github.com/KunalAsude?tab=repositories)
-  [![Total Contributions](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&labelColor=black&color=green&label=Total%20Contributions&query=%24.totalContributions&url=https%3A%2F%2Fapi.github-contributions.vercel.app%2Fapi%2Fv1%2FKunalAsude)](https://github.com/KunalAsude)
+  [![Total Contributions](https://img.shields.io/badge/Total%20Contributions-656%20in%202025-brightgreen?style=for-the-badge&logo=github&labelColor=black)](https://github.com/KunalAsude)
   
 </div>
 
