@@ -30,17 +30,14 @@
   <img src="https://streak-stats.demolab.com/?user=KunalAsude&theme=dark&hide_border=true" />
 </div>
 
-## 📊 GitHub Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalAsude&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
+## 📊 Total GitHub Contributions
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/KunalAsude?label=Followers&style=for-the-badge&logo=github)
-  ![GitHub User's stars](https://img.shields.io/github/stars/KunalAsude?label=Total%20Stars&style=for-the-badge&logo=github)
-  ![GitHub contributions](https://img.shields.io/badge/Total%20Contributions-1000+-brightgreen?style=for-the-badge&logo=github)
+  ![GitHub followers](https://img.shields.io/github/followers/KunalAsude?label=Followers&style=for-the-badge&logo=github&color=blue)
+  ![GitHub User's stars](https://img.shields.io/github/stars/KunalAsude?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow)
+  ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-25+-orange?style=for-the-badge&logo=github)
+  ![Years Active](https://img.shields.io/badge/Years%20Active-3+-green?style=for-the-badge&logo=github)
   
 </div>
 
