@@ -31,12 +31,14 @@
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
   
-  ![Followers](https://img.shields.io/badge/Followers-5-blue?style=for-the-badge&logo=github)
-  ![Total Stars](https://img.shields.io/badge/Total%20Stars-119-yellow?style=for-the-badge&logo=github)
-  ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-25+-orange?style=for-the-badge&logo=github)
-  ![Years Active](https://img.shields.io/badge/Years%20Active-3+-green?style=for-the-badge&logo=github)
-  ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-420+-brightgreen?style=for-the-badge&logo=github)
+  [![GitHub followers](https://img.shields.io/github/followers/KunalAsude?style=for-the-badge&logo=github&labelColor=black)](https://github.com/KunalAsude?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/KunalAsude?style=for-the-badge&logo=github&labelColor=black)](https://github.com/KunalAsude?tab=repositories)
+  [![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&labelColor=black&color=blue&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKunalAsude)](https://github.com/KunalAsude?tab=repositories)
   
 </div>
 
