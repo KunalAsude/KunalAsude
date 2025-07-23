@@ -21,13 +21,6 @@
 
 <div align="center">
   
-  <!-- Total Contributions Badge -->
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Total%20Contributions&query=%24.totalContributions&url=https%3A//github-contributions-api.jogruber.de/v4/KunalAsude?y=last&style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Total Contributions" />
-  
-</div>
-
-<div align="center">
-  
   <!-- GitHub Stats Cards -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=8" />
