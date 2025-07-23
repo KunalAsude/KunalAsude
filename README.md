@@ -24,34 +24,28 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </div>
 
-## 🔥 GitHub Activity & Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalAsude&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark" alt="GitHub Profile Summary" />
-</div>
-
 ## 📈 GitHub Metrics
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/KunalAsude?style=for-the-badge&logo=github&labelColor=black)](https://github.com/KunalAsude?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/KunalAsude?style=for-the-badge&logo=github&labelColor=black)](https://github.com/KunalAsude?tab=repositories)
-  [![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&labelColor=black&color=blue&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKunalAsude)](https://github.com/KunalAsude?tab=repositories)
+  [![GitHub followers](https://img.shields.io/badge/Followers-5-blue?style=for-the-badge&logo=github&labelColor=black)](https://github.com/KunalAsude?tab=followers)
+  [![GitHub stars](https://img.shields.io/badge/Stars-120-yellow?style=for-the-badge&logo=github&labelColor=black)](https://github.com/KunalAsude?tab=repositories)
+  [![Public Repos](https://img.shields.io/badge/Public%20Repos-32-green?style=for-the-badge&logo=github&labelColor=black)](https://github.com/KunalAsude?tab=repositories)
   
 </div>
 
-## 📊 Total Contributions
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars&custom_title=GitHub%20Stats&hide_border=true" />
+  
+  ![Total Commits](https://img.shields.io/badge/Total%20Commits-476-brightgreen?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
+  ![Total PRs](https://img.shields.io/badge/Pull%20Requests-78-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+  ![Total Issues](https://img.shields.io/badge/Issues-1-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+  
 </div>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KunalAsude&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
 ## 🏗️ Featured Projects
