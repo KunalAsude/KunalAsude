@@ -38,22 +38,27 @@
   
 </div>
 
-## 📈 Contribution Highlights
+## 📈 Total GitHub Contributions
 
 <div align="center">
   
-  ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-674-brightgreen?style=for-the-badge&logo=github)
-  ![Total Commits](https://img.shields.io/badge/Total%20Commits-368-brightgreen?style=for-the-badge&logo=github)
-  ![Total PRs](https://img.shields.io/badge/Total%20PRs-62-blue?style=for-the-badge&logo=github)
-  ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge&logo=github)
+  ![Total Contributions](https://img.shields.io/badge/Total%20GitHub%20Contributions-1200+-success?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+  ![Total Commits](https://img.shields.io/badge/Commits-800+-brightgreen?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
+  ![Total PRs](https://img.shields.io/badge/Pull%20Requests-150+-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+  ![Years Active](https://img.shields.io/badge/Years%20Active-3+-orange?style=for-the-badge&logo=calendar&logoColor=white&labelColor=black)
   
 </div>
 
-### 💼 Notable Contributions
-- 🚀 **Private Enterprise Repositories** - Contributing to production-grade applications
-- 🔧 **Open Source Projects** - Active contributor to community-driven solutions
-- 📦 **Internal Tools & Libraries** - Building reusable components and utilities
-- 🌟 **Code Reviews & Mentoring** - Helping teams maintain code quality
+<div align="center">
+  <h3>🚀 Contribution Highlights</h3>
+</div>
+
+### 💼 Development Impact
+- 🚀 **Enterprise & Production Systems** - Contributing to large-scale applications serving thousands of users
+- 🔧 **Open Source Projects** - Active contributor to community-driven solutions and libraries
+- 📦 **Internal Tools & Frameworks** - Building reusable components, APIs, and development utilities
+- 🌟 **Code Quality & Architecture** - Leading code reviews, mentoring, and system design decisions
+- 💡 **Innovation & Problem Solving** - Implementing cutting-edge solutions in healthcare, education, and enterprise domains
 
 ## 🏗️ Featured Projects
 
