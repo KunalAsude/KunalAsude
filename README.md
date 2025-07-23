@@ -29,57 +29,8 @@
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=dark&hide_border=true" alt="GitHub Streak" />
-  
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KunalAsude&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalAsude&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  
-</div>
-
-## 📊 Dynamic GitHub Metrics
-
-<div align="center">
-  
-  <!-- Dynamic Badges -->
-  <img src="https://komarev.com/ghpvc/?username=KunalAsude&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/KunalAsude?style=for-the-badge&color=blue&labelColor=black&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/KunalAsude?style=for-the-badge&color=yellow&labelColor=black&logo=github&affiliations=OWNER" alt="Stars" />
-  
-</div>
-
-<div align="center">
-  
   <!-- Detailed Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark" alt="GitHub Profile Summary" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Additional Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KunalAsude&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KunalAsude&theme=github_dark" alt="Most Commit Language" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Stats and Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KunalAsude&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KunalAsude&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
   
 </div>
 
