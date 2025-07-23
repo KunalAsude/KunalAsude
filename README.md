@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kunal
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+%26+Cloud+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+%26+Software+Specialist" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -27,10 +27,6 @@
 ## 🔥 GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
@@ -46,6 +42,7 @@
 
 <div align="center">
   
+  ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-674-brightgreen?style=for-the-badge&logo=github)
   ![Total Commits](https://img.shields.io/badge/Total%20Commits-368-brightgreen?style=for-the-badge&logo=github)
   ![Total PRs](https://img.shields.io/badge/Total%20PRs-62-blue?style=for-the-badge&logo=github)
   ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge&logo=github)
