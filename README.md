@@ -20,15 +20,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </div>
 
 ## 🔥 GitHub Activity & Contributions
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalAsude&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
+
+## 📈 GitHub Metrics
 
 <div align="center">
   
@@ -38,27 +44,15 @@
   
 </div>
 
-## 📈 Total GitHub Contributions
+## 📊 Total Contributions
 
 <div align="center">
-  
-  ![Total Contributions](https://img.shields.io/badge/Total%20GitHub%20Contributions-1200+-success?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
-  ![Total Commits](https://img.shields.io/badge/Commits-800+-brightgreen?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
-  ![Total PRs](https://img.shields.io/badge/Pull%20Requests-150+-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
-  ![Years Active](https://img.shields.io/badge/Years%20Active-3+-orange?style=for-the-badge&logo=calendar&logoColor=white&labelColor=black)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars&custom_title=GitHub%20Stats&hide_border=true" />
 </div>
 
 <div align="center">
-  <h3>🚀 Contribution Highlights</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=KunalAsude&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
-
-### 💼 Development Impact
-- 🚀 **Enterprise & Production Systems** - Contributing to large-scale applications serving thousands of users
-- 🔧 **Open Source Projects** - Active contributor to community-driven solutions and libraries
-- 📦 **Internal Tools & Frameworks** - Building reusable components, APIs, and development utilities
-- 🌟 **Code Quality & Architecture** - Leading code reviews, mentoring, and system design decisions
-- 💡 **Innovation & Problem Solving** - Implementing cutting-edge solutions in healthcare, education, and enterprise domains
 
 ## 🏗️ Featured Projects
 
@@ -80,6 +74,13 @@
   ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
   
 </div>
+
+### 💼 Development Impact
+- 🚀 **Enterprise & Production Systems** - Contributing to large-scale applications serving thousands of users
+- 🔧 **Open Source Projects** - Active contributor to community-driven solutions and libraries
+- 📦 **Internal Tools & Frameworks** - Building reusable components, APIs, and development utilities
+- 🌟 **Code Quality & Architecture** - Leading code reviews, mentoring, and system design decisions
+- 💡 **Innovation & Problem Solving** - Implementing cutting-edge solutions in healthcare, education, and enterprise domains
 
 ## 🤝 Connect
 
