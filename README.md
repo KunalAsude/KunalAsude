@@ -1,20 +1,24 @@
-# Hi 👋, I'm Kunal
+Hi 👋, I'm Kunal
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;MERN+%2B+NestJS+Specialist;Next.js+%7C+tRPC+%7C+TanStack+Expert;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" /> </div>
+🚀 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Specialist;Full+Stack+Developer;Python+Django+REST+Expert;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
-</div>
+🔭 Experienced in Full Stack Development using:
 
-## 🚀 About Me
+Frontend: React, Next.js, TanStack (Query/Table/Router), Tailwind CSS
 
-- 🔭 Experienced in **Full Stack Development** using:
-  - **Frontend:** React, Next.js, Tailwind CSS, Bootstrap
-  - **Backend:** Python (Django, FastAPI), Node.js (Express, NestJS)
-  - **Databases:** MongoDB, PostgreSQL, MySQL, Redis, Prisma ORM
-- ☁️ Skilled in **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions
-- 💡 Passionate about building scalable APIs, robust backend systems, and modern web applications
-- 🌱 Currently exploring **AI/ML integration** and advanced automation with Jenkins
-- 💬 Open to discussions on **Backend, Full Stack, Cloud Infrastructure, and Software Architecture**
-- 📫 Reach me at **[kunalasude@gmail.com](mailto:kunalasude@gmail.com)**
+Backend: Node.js (Express, NestJS, tRPC), GraphQL, REST APIs
+
+Databases: PostgreSQL, MongoDB, MySQL, Prisma ORM, Redis
+
+☁️ Skilled in Cloud & DevOps: AWS, Docker, Kubernetes, GitHub Actions, CI/CD
+
+💡 Passionate about building scalable APIs, performant backend systems, and modern web apps
+
+🌱 Currently exploring advanced tRPC patterns, full-stack type safety, and AI integrations
+
+💬 Open to discussions on Full Stack, MERN, Nest.js, Next.js, Databases, and Cloud Architecture
+
+📫 Reach me at kunalasude@gmail.com
 
 ## 💻 Tech Stack
 
