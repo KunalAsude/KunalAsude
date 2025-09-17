@@ -1,5 +1,5 @@
 Hi 👋, I'm Kunal
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;MERN+%2B+NestJS+Specialist;Next.js+%7C+tRPC+%7C+TanStack+Expert;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;MERN+%2B+NestJS;Next.js+%7C+tRPC+%7C+TanStack;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" /> </div>
 🚀 About Me
 
 🔭 Experienced in Full Stack Development using:
