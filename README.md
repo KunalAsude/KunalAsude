@@ -30,46 +30,24 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=8"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=default&hide_border=true&langs_count=8"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-  </picture>
+  <!-- Using alternative GitHub Stats API instances to avoid rate limits -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark" alt="GitHub Profile Summary" />
-  </picture>
+  <!-- GitHub Streak Stats - More reliable alternative -->
+  <img src="https://streak-stats.demolab.com/?user=KunalAsude&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <!-- Activity Graph - Visual contribution timeline -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalAsude&theme=github-compact&bg_color=0d1117&color=2196f3&line=2196f3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <!-- Profile Trophy - Achievement showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=KunalAsude&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
