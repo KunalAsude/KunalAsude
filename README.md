@@ -1,17 +1,16 @@
-# Hi 👋, I'm Kunal
+Hi 👋, I'm Kunal
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;MERN+%2B+NestJS;Next.js+%7C+tRPC+%7C+TanStack;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" /> </div>
+🚀 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;MERN+%2B+NestJS;Next.js+%7C+tRPC+%7C+TanStack;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
-</div>
+🔭 Experienced in Full Stack Development using:
 
-## 🚀 About Me
+Frontend: React, Next.js, TanStack (Query/Table/Router), Tailwind CSS
 
-🔭 **Experienced in Full Stack Development using:**
-- **Frontend:** React, Next.js, TanStack (Query/Table/Router), Tailwind CSS
-- **Backend:** Node.js (Express, NestJS, tRPC), GraphQL, REST APIs
-- **Databases:** PostgreSQL, MongoDB, MySQL, Prisma ORM, Redis
+Backend: Node.js (Express, NestJS, tRPC), GraphQL, REST APIs
 
-☁️ **Skilled in Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, CI/CD
+Databases: PostgreSQL, MongoDB, MySQL, Prisma ORM, Redis
+
+☁️ Skilled in Cloud & DevOps: AWS, Docker, Kubernetes, GitHub Actions, CI/CD
 
 💡 Passionate about building scalable APIs, performant backend systems, and modern web apps
 
@@ -19,7 +18,7 @@
 
 💬 Open to discussions on Full Stack, MERN, Nest.js, Next.js, Databases, and Cloud Architecture
 
-📫 Reach me at **kunalasude@gmail.com**
+📫 Reach me at kunalasude@gmail.com
 
 ## 💻 Tech Stack
 
@@ -30,28 +29,19 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Using alternative GitHub Stats API instances to avoid rate limits -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- GitHub Stats Cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <!-- GitHub Streak Stats - More reliable alternative -->
-  <img src="https://streak-stats.demolab.com/?user=KunalAsude&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <!-- Detailed Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <!-- Activity Graph - Visual contribution timeline -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalAsude&theme=github-compact&bg_color=0d1117&color=2196f3&line=2196f3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <!-- Profile Trophy - Achievement showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=KunalAsude&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KunalAsude&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views" />
+  <!-- Total Contributions -->
+  <img src="https://komarev.com/ghpvc/?username=KunalAsude&label=Total%20GitHub%20Contributions&color=2196F3&style=for-the-badge" alt="Total GitHub Contributions" />
 </div>
 
 ## 🏗️ Featured Projects
@@ -75,19 +65,12 @@
   
 </div>
 
-## 💼 Development Impact
-
+### 💼 Development Impact
 - 🚀 **Enterprise & Production Systems** - Contributing to large-scale applications serving thousands of users
 - 🔧 **Open Source Projects** - Active contributor to community-driven solutions and libraries
 - 📦 **Internal Tools & Frameworks** - Building reusable components, APIs, and development utilities
 - 🌟 **Code Quality & Architecture** - Leading code reviews, mentoring, and system design decisions
 - 💡 **Innovation & Problem Solving** - Implementing cutting-edge solutions in healthcare, education, and enterprise domains
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalAsude&theme=github-compact&bg_color=0d1117&color=2196f3&line=2196f3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ## 🤝 Connect
 
@@ -101,10 +84,4 @@
   <a href="mailto:kunalasude@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" alt="Footer Wave" />
 </div>
