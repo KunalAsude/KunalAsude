@@ -31,6 +31,10 @@ Experienced full-stack engineer specializing in scalable applications and cloud 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark" alt="Profile Summary" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
 ---
 
 ## 🛠️ Core Technology Stack
