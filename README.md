@@ -23,8 +23,8 @@ Experienced full-stack engineer specializing in scalable applications and cloud 
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=8&private=true" alt="Top Languages" />
 </div>
 
 <div align="center">
