@@ -1,68 +1,78 @@
-# Kunal Asude
+# Hi, I'm Kunal Asude 👋
+
 **Full Stack Developer | Backend Engineer | Cloud Architect**
 
-Experienced full-stack engineer specializing in scalable applications and cloud infrastructure. Passionate about building high-performance systems with modern technology stacks and DevOps practices.
+Building scalable, high-performance systems with modern technology stacks and DevOps practices. Passionate about solving complex problems through clean architecture and innovative solutions.
 
 ---
 
 ## 🚀 Technical Expertise
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3
+**Frontend**
+React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3
 
-**Backend:** Node.js, NestJS, Django, FastAPI, REST APIs, GraphQL, WebSockets
+**Backend**
+Node.js, NestJS, Django, FastAPI, REST APIs, GraphQL, WebSockets
 
-**Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM, Database Optimization
+**Databases**
+PostgreSQL, MongoDB, Redis, Prisma ORM, Database Optimization
 
-**DevOps & Cloud:** AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD Pipelines
+**DevOps & Cloud**
+AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD Pipelines
 
-**Languages:** JavaScript, TypeScript, Python, Go
+**Languages**
+JavaScript, TypeScript, Python, Go
 
-**Tools & Practices:** Git, Linux, Microservices Architecture, System Design, Test-Driven Development
-
----
-
-## 📊 GitHub Analytics
-
-| Metric | Value |
-|--------|-------|
-| **Total Contributions** | [Your actual number] |
-| **Public Repositories** | [Your actual number] |
-| **Pull Requests** | [Your actual number] |
-| **Commits** | [Your actual number] |
+**Architecture & Practices**
+Microservices, System Design, Test-Driven Development, Git, Linux
 
 ---
 
-## 💼 Core Competencies
+## 📊 GitHub Stats
 
-**Full Stack Development** — End-to-end application architecture and implementation using modern frameworks and best practices
-
-**Backend Systems** — Designing and building scalable APIs, microservices, and data pipelines with production-grade reliability
-
-**Cloud & DevOps** — AWS deployment, containerization with Docker, orchestration with Kubernetes, and automated CI/CD workflows
-
-**Database Design** — SQL and NoSQL optimization, ORM implementation, caching strategies, and query performance tuning
-
-**System Architecture** — Designing performant, maintainable, and scalable systems for production environments
+**Contributions:** [Your actual number] | **Public Repos:** [Your actual number] | **Pull Requests:** [Your actual number] | **Commits:** [Your actual number]
 
 ---
 
-## 🔧 Featured Projects
+## 💼 What I Do Best
 
-I actively develop and maintain projects across full-stack, backend, and DevOps domains. Check out my repositories for implementations of scalable systems, cloud solutions, and innovative applications.
+🔧 **Full Stack Development**
+End-to-end application architecture and implementation using modern frameworks and best practices
+
+⚙️ **Backend Systems**
+Designing and building scalable APIs, microservices, and data pipelines with production-grade reliability
+
+☁️ **Cloud & DevOps**
+AWS deployment, containerization with Docker, orchestration with Kubernetes, and automated CI/CD workflows
+
+🗄️ **Database Architecture**
+SQL and NoSQL optimization, ORM implementation, caching strategies, and query performance tuning
+
+🏗️ **System Design**
+Architecting performant, maintainable, and scalable systems for production environments
 
 ---
 
-## 📚 Always Learning
+## 📁 What You'll Find Here
 
-Committed to staying current with emerging technologies and best practices in cloud computing, system design, and modern development frameworks.
+My repositories showcase real-world implementations of full-stack applications, backend services, cloud solutions, and DevOps infrastructure. Each project reflects my commitment to clean code, scalability, and best practices.
 
 ---
 
-## 🔗 Connect With Me
+## 🎯 Currently Focused On
 
-- **Portfolio:** [kunalasude.dev](https://kunalasude.dev)
-- **Email:** kunalasude@gmail.com
-- **LinkedIn:** [Connect](https://linkedin.com/in/kunalasude)
+- Building scalable microservices architectures
+- Optimizing cloud infrastructure and cost efficiency
+- Exploring advanced system design patterns
+- Contributing to open-source projects
+
+---
+
+## 🔗 Let's Connect
+
+📧 **Email:** kunalasude@gmail.com  
+🌐 **Portfolio:** [kunalasude.dev](https://kunalasude.dev)  
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/kunalasude)
 
 ---
 
