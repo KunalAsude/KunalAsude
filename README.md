@@ -1,12 +1,12 @@
-# Hi, I'm Kunal 👋
+# Kunal Asude
 
 **Full Stack Developer | Backend Engineer | Cloud Architect**
 
-Experienced full-stack engineer specializing in scalable applications and cloud infrastructure. Passionate about building high-performance systems with modern technology stacks and DevOps practices.
+Software engineer specializing in scalable applications and cloud infrastructure. Building high-performance systems with modern technology stacks and DevOps practices.
 
 ---
 
-## 🚀 Technical Expertise
+## Technical Expertise
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
 **Backend:** Node.js, NestJS, Django, FastAPI, REST APIs, GraphQL  
@@ -16,111 +16,52 @@ Experienced full-stack engineer specializing in scalable applications and cloud 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=default&hide_border=true&langs_count=6)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Technology Stack
 
 <div align="center">
-  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=github_dark)
 
-![Commits Per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KunalAsude&theme=github_dark)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KunalAsude&theme=github_dark)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KunalAsude&theme=github_dark&utcOffset=5.5)
+![Tech Stack](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,python,django,fastapi,postgres,mongodb,redis,prisma,docker,kubernetes,aws,github,githubactions,graphql,tailwind)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Professional Focus
 
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=KunalAsude&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 🛠️ Core Technology Stack
-
-<div align="center">
-  
-![Tech Stack](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,python,django,fastapi,postgres,mongodb,redis,prisma,docker,kubernetes,jenkins,aws,github,githubactions,graphql,tailwind)
-
-</div>
+- **Full Stack Development** — End-to-end application architecture with React, Next.js, Node.js, and NestJS
+- **Backend Engineering** — Scalable APIs, microservices architecture, and data pipeline development
+- **Cloud Infrastructure** — AWS deployment, Docker containerization, Kubernetes orchestration, CI/CD automation
+- **Database Management** — SQL/NoSQL optimization, ORM implementation, caching strategies with Redis
+- **System Design** — Building maintainable, performant systems for production environments
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 💼 Key Strengths
-
-**Full Stack Development** — End-to-end application architecture and implementation using modern frameworks
-
-**Backend Systems** — Building scalable APIs, microservices, and data pipelines with NestJS, Django, and Node.js
-
-**Cloud & DevOps** — AWS deployment, containerization with Docker, orchestration with Kubernetes, and CI/CD automation
-
-**Database Design** — SQL and NoSQL database optimization, ORM implementation with Prisma, and caching strategies
-
-**System Architecture** — Designing performant, maintainable systems for production environments
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 🔗 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalasude)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kunalasude.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalasude@gmail.com)
-
-</div>
-
----
-
-## 📌 Pinned Repositories
+## Connect
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=KunalAsude&repo=REPO_NAME_1&theme=dark&hide_border=true)](https://github.com/KunalAsude/REPO_NAME_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=KunalAsude&repo=REPO_NAME_2&theme=dark&hide_border=true)](https://github.com/KunalAsude/REPO_NAME_2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalasude)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://kunalasude.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kunalasude@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=KunalAsude&color=blueviolet&style=flat-square)
 
-**Open to collaborations on full-stack projects, cloud architecture, and innovative solutions.**
+**Open to collaborations on full-stack projects and cloud architecture solutions**
 
 </div>
