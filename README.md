@@ -33,7 +33,7 @@ Building and owning production backend systems — from API design to AWS infras
 
 <div align="center">
 <a href="https://github.com/KunalAsude">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </a>
 </div>
