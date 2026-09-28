@@ -25,17 +25,20 @@ while working across backend architecture, cloud infrastructure, and CI/CD.
 
 <div align="center">
 
+<!-- Contribution overview -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=tokyonight" />
 
 <br/>
 
+<!-- GitHub stats -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=tokyonight&hide_border=true" />
+<!-- Total contributions + current streak only -->
+<img src="https://streak-stats.demolab.com/?user=KunalAsude&theme=tokyonight&hide_border=true&hide_longest_streak=true&card_width=600" />
 
 </div>
 
