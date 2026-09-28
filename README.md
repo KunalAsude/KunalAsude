@@ -6,18 +6,18 @@ I build production backend systems, APIs, and event-driven services with
 **NestJS, TypeScript, MongoDB/PostgreSQL, and AWS**.
 
 Currently working as an **SDE-1**, building integrations and full-stack features
-while working across backend architecture, cloud infrastructure, and CI/CD.
+across backend architecture, cloud infrastructure, and CI/CD.
 
 ---
 
-### 🚀 What I Build
+### ⚙️ What I Build
 
-- ⚙️ **Backend APIs** — NestJS, Node.js, REST, Microservices
-- ☁️ **AWS Systems** — EC2, ECS, S3, SQS, EventBridge, IAM, VPC
-- 🔄 **Event-Driven Architecture** — SQS consumers, async processing, FFmpeg
-- 🚀 **CI/CD** — GitHub Actions, Docker, automated AWS deployments
-- 🗄️ **Databases** — MongoDB, PostgreSQL, MySQL
-- 🤖 **Applied ML** — TF-IDF, Naive Bayes, AI integrations
+- **Backend APIs** — NestJS, Node.js, REST, Microservices
+- **AWS Systems** — EC2, ECS, S3, SQS, EventBridge, IAM, VPC
+- **Event-Driven Architecture** — SQS consumers, async processing, FFmpeg pipelines
+- **CI/CD** — GitHub Actions, Docker, automated AWS deployments
+- **Databases** — MongoDB, PostgreSQL, MySQL
+- **Applied ML** — TF-IDF, Naive Bayes, AI integrations
 
 ---
 
@@ -25,20 +25,18 @@ while working across backend architecture, cloud infrastructure, and CI/CD.
 
 <div align="center">
 
-<!-- Contribution overview -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=tokyonight" />
+<!-- Generated daily by .github/workflows/profile-cards.yml — never rate-limited -->
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 
 <br/>
 
-<!-- GitHub stats -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" />
 
 <br/>
 
-<!-- Total contributions + current streak only -->
-<img src="https://streak-stats.demolab.com/?user=KunalAsude&theme=tokyonight&hide_border=true&hide_longest_streak=true&card_width=600" />
+<!-- Total contributions + longest streak (current streak hidden) -->
+<img src="https://streak-stats.demolab.com/?user=KunalAsude&theme=tokyonight&hide_border=true&hide_current_streak=true&card_width=600" />
 
 </div>
 
@@ -48,18 +46,7 @@ while working across backend architecture, cloud infrastructure, and CI/CD.
 
 <div align="center">
 
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Python](https://skillicons.dev/icons?i=python)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,python,postgres,mongodb,docker,aws,githubactions&perline=12" />
 
 </div>
 
@@ -91,8 +78,4 @@ AI-driven health assistant using TF-IDF + Multinomial Naive Bayes.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KunalAsude)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kunalasude@gmail.com)
 
-</div>
-
-<div align="center">
-<sub>Backend Developer · Full-Stack Developer · AWS</sub>
 </div>
