@@ -1,66 +1,95 @@
 # Kunal Asude
-**Backend-Focused Full-Stack Developer · NestJS · TypeScript · AWS**
-Building and owning production backend systems — from API design to AWS infrastructure and CI/CD — with growing experience in event-driven architecture and applied ML.
+
+### Backend-Focused Full-Stack Developer · NestJS · TypeScript · AWS
+
+I build production backend systems, APIs, and event-driven services with
+**NestJS, TypeScript, MongoDB/PostgreSQL, and AWS**.
+
+Currently working as an **SDE-1**, building integrations and full-stack features
+while working across backend architecture, cloud infrastructure, and CI/CD.
 
 ---
 
-## Technical Stack
+### 🚀 What I Build
 
-| Layer | Technologies |
-|---|---|
-| **Backend** | NestJS, Node.js, Express.js, Next.js (API routes / server actions), RESTful APIs |
-| **Frontend** | React, Next.js, Tailwind CSS, Material-UI |
-| **Databases** | PostgreSQL, MongoDB, MySQL |
-| **Cloud & DevOps** | AWS (EC2, S3, ECR, ECS, IAM, VPC, EventBridge, RDS, SQS), Docker, GitHub Actions (CI/CD), Linux |
-| **Machine Learning** | Scikit-learn, TF-IDF, Multinomial Naive Bayes |
-| **Languages** | TypeScript, JavaScript, Python |
+- ⚙️ **Backend APIs** — NestJS, Node.js, REST, Microservices
+- ☁️ **AWS Systems** — EC2, ECS, S3, SQS, EventBridge, IAM, VPC
+- 🔄 **Event-Driven Architecture** — SQS consumers, async processing, FFmpeg
+- 🚀 **CI/CD** — GitHub Actions, Docker, automated AWS deployments
+- 🗄️ **Databases** — MongoDB, PostgreSQL, MySQL
+- 🤖 **Applied ML** — TF-IDF, Naive Bayes, AI integrations
 
 ---
 
-## What I Work On
-
-**Backend & API engineering** — Production REST APIs, MongoDB aggregation pipelines, role-based access control, and schema migrations across multi-environment deployments.
-
-**Cloud & DevOps** — AWS infrastructure provisioning (EC2, S3, ECS, IAM, VPC) and a self-built GitHub Actions CI/CD pipeline handling testing, builds, and deployment.
-
-**Event-driven systems** — Built a service using AWS SQS consumers and FFmpeg to power an asynchronous media/audio processing pipeline, with AI service integration (OpenAI, ElevenLabs).
-
-**Full-stack delivery** — Independently architected and shipped a Next.js/MongoDB healthcare platform end-to-end, including a trained TF-IDF + Naive Bayes classification model.
-
----
-
-## GitHub Stats
-
-<div align="center">
-<a href="https://github.com/KunalAsude">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</a>
-</div>
-
----
-
-## Tech Icons
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,postgres,mongodb,docker,aws,githubactions,tailwind)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=tokyonight" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KunalAsude&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAsude&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## Connect
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalasude)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Python](https://skillicons.dev/icons?i=python)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### AudioShots API Consumer
+
+**NestJS · MongoDB · AWS SQS · S3 · FFmpeg · OpenAI · ElevenLabs**
+
+Independently deployed microservice for asynchronous RSS ingestion,
+AI-generated scripts, multilingual text-to-speech, and HLS audio processing.
+
+### MediNexus
+
+**Next.js · TypeScript · MongoDB · Scikit-learn**
+
+Full-stack healthcare platform with hospital/appointment management and an
+AI-driven health assistant using TF-IDF + Multinomial Naive Bayes.
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-asude)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KunalAsude)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kunalasude@gmail.com)
 
 </div>
 
----
-
 <div align="center">
-<sub>Open to Backend Developer and Backend/DevOps-hybrid roles.</sub>
+<sub>Backend Developer · Full-Stack Developer · AWS</sub>
 </div>
