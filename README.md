@@ -25,14 +25,18 @@ while working across backend architecture, cloud infrastructure, and CI/CD.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalAsude&theme=tokyonight" />
+<!-- Contribution graph (no name) -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KunalAsude&theme=tokyo-night&hide_border=true&area=true" />
 
 <br/>
 
-<!-- Stats card with grade (A+, A, B+...) — served from your own Vercel deployment -->
-<img height="180" src="https://YOUR-APP.vercel.app/api?username=KunalAsude&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+<!-- Stats + languages (same server as before, works) -->
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KunalAsude&theme=tokyonight" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KunalAsude&theme=tokyonight" />
 
-<img height="180" src="https://YOUR-APP.vercel.app/api/top-langs/?username=KunalAsude&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<!-- GRADE CARD: uncomment after deploying your own github-readme-stats on Vercel
+<img height="170" src="https://YOUR-APP.vercel.app/api?username=KunalAsude&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+-->
 
 <br/>
 
